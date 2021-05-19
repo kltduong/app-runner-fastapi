@@ -1,0 +1,9 @@
+# Fast API
+fastapi[all]
+# uvicorn
+# requests
+
+# AWS
+# boto3
+# sagemaker
+# pandas

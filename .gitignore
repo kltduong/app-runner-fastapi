@@ -1,0 +1,5 @@
+.aws/
+.devcontainer/
+.vscode/
+.pylintrc
+__pycache__/
