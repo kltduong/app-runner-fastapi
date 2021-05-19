@@ -15,7 +15,7 @@ app.add_middleware(
 def home():
     # res = requests.get("http://localhost:7000")
     # return {"Python": "success", "healthCheck": json.loads(res.content)}
-    return "OK"
+    return "Hello from FastAPI"
 
 
 @app.get("/health-check")
